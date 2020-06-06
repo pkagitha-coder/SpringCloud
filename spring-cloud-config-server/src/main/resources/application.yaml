@@ -7,7 +7,6 @@ spring:
           search-paths:
             - local-config
 
-
   application:
     name: spring-cloud-config-server
 server:
